@@ -1,0 +1,18 @@
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035544Z&X-Amz-Expires=259200&X-Amz-Signature=eaeb7b40bc57c63bbe33991620240e5bdb4bb97f51bc382b32a1a699a47a94ff&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.0
+  checksum=sha-256=abe84e0b1963a0ea2186be72abff92e0cc545dc5e46da2cfc5bf6e6ab16e48ac
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035544Z&X-Amz-Expires=259200&X-Amz-Signature=13f2d7db8274092180e9378da64dec8c14959a285bbeff06b615059be0f2c3da&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.1
+  checksum=sha-256=95a0f4e5b1bb4c0c4224d141333b2cbef59156e38753e235b062ebb2b1149aa7
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035544Z&X-Amz-Expires=259200&X-Amz-Signature=e06b6704adf89db15496fd6e73740d587a92decb320726f6344f0b337b462b7d&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.2
+  checksum=sha-256=6d7f39c68eaca4af50e452074f985ecb58c6b65112b5c1fc3ba3c679a4007038
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035544Z&X-Amz-Expires=259200&X-Amz-Signature=f22e2223b2f6a93d4eb189805af0a207ebe6a4ebbbe4937f6ecde7073a61b9b8&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.3
+  checksum=sha-256=464b91fae066e3fcd327eb403195ea0b1bb99d87936c6e5aa9508bb45cea0a33
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035544Z&X-Amz-Expires=259200&X-Amz-Signature=1a5833c132eadad7689ece620ab3b8f5dad3283f454209e6a392668ed0efd859&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.4
+  checksum=sha-256=87f6c5d9ec86d56531c99056079c7b8a7ba5450f475bfb3dd01752eacfb19896
+https://codegeex.11cbd89742fe4310756045060652d091.r2.cloudflarestorage.com/codegeex/codegeex_13b.tar.gz.5?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=b279482b3a1b5758740371cde86a9b62%2F20230112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230112T035545Z&X-Amz-Expires=259200&X-Amz-Signature=6c1e2fdb84a761a9c2cba6ed1c73dd3d34ab3ebfa07fd722f623e0763f0bdccf&X-Amz-SignedHeaders=host
+  out=codegeex_13b.tar.gz.5
+  checksum=sha-256=2efc83f579344661f37f1c71e7ba0f8e07f60dfd75ed833fe7a4ef09c8b89cb3
