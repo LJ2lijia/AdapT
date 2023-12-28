@@ -1,6 +1,6 @@
 #  Hot or Cold? Adaptive Temperature Sampling for Code Generation with Large Language Models
 
-It currently contains the code for CodeGeeX model evaluation on HumanEval and MBPP.
+Official implementation of AdapT in AAAI 2024 [paper](https://lj2lijia.github.io/papers/AdapT_AAAI2024.pdf).
 
 ## Getting Started
 
